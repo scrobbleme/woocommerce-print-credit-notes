@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Print Credit Notes
- * Plugin URI: http://blog.scrobble.me/tag/woocommerce-print-credit-notes
+ * Plugin URI: http://git.githost.de/wordpress/woocommerce-print-credit-notes
  * Description: This plugin provides a simple way to print credit notes. It requires the plugin "WooCommerce Print Invoices & Delivery Notes" to work.
  * Author: Adrian Moerchen
  * Author URI: http://www.scrobble.me
