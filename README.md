@@ -1,4 +1,4 @@
-# WooCommerce Apply Order Discount
+# WooCommerce Print Credit Notes
 
 This plugin allows administrators to print credit notes, when an order was canceled.
 
@@ -14,4 +14,14 @@ If you want to support this plugin, you can
     * Contribute to [https://github.com/woothemes/woocommerce/issues/3164](https://github.com/woothemes/woocommerce/issues/3164)
     * Contribute to [https://github.com/piffpaffpuff/woocommerce-delivery-notes](https://github.com/piffpaffpuff/woocommerce-delivery-notes)
 * [Purchase](http://codecanyon.net/user/scrobbleme/portfolio?ref=scrobbleme) my work at Envato
-* [Hire me](http://www.scrobble.me) for a Wordpress job
+* [Hire me](http://blog.scrobble.me) for a WordPress job
+
+## Changelog
+
+### 1.1
+
+* Compatibility with WooCommerce Print Invoice & Delivery Note 4.0.2
+
+### 1.0
+
+* Initial commit
