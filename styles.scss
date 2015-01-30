@@ -1,0 +1,15 @@
+.type-shop_order {
+  .column-order_actions .print-preview-button.credit-note {
+    display: none;
+    &:before {
+      color: #97000d;
+    }
+  }
+
+  &.status-wc-refunded,
+  &.status-wc-canceled {
+    .column-order_actions .print-preview-button.credit-note {
+      display: block;
+    }
+  }
+}

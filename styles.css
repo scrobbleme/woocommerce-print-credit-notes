@@ -1,0 +1,8 @@
+.type-shop_order .column-order_actions .print-preview-button.credit-note {
+  display: none; }
+  .type-shop_order .column-order_actions .print-preview-button.credit-note:before {
+    color: #97000d; }
+.type-shop_order.status-wc-refunded .column-order_actions .print-preview-button.credit-note, .type-shop_order.status-wc-canceled .column-order_actions .print-preview-button.credit-note {
+  display: block; }
+
+/*# sourceMappingURL=styles.css.map */
