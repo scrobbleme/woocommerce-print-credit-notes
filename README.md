@@ -18,6 +18,10 @@ If you want to support this plugin, you can
 
 ## Changelog
 
+### 1.2
+
+* Compatibility with WooCommerce Print Invoice & Delivery Note 4.1.2
+
 ### 1.1
 
 * Compatibility with WooCommerce Print Invoice & Delivery Note 4.0.2
