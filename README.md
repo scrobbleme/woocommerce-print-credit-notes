@@ -11,10 +11,9 @@ If you want to support this plugin, you can
 
 * Help to localize it
 * Create Pull Requests with useful features, improvements and bug fixes
-    * Contribute to [https://github.com/woothemes/woocommerce/issues/3164](https://github.com/woothemes/woocommerce/issues/3164)
     * Contribute to [https://github.com/piffpaffpuff/woocommerce-delivery-notes](https://github.com/piffpaffpuff/woocommerce-delivery-notes)
 * [Purchase](http://codecanyon.net/user/scrobbleme/portfolio?ref=scrobbleme) my work at Envato
-* [Hire me](http://blog.scrobble.me) for a WordPress job
+* [Hire me](http://www.moewe.io/) for a WordPress job
 
 ## Changelog
 
